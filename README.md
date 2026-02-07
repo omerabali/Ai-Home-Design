@@ -81,3 +81,9 @@ npm run dev
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
+<img width="1919" height="1017" alt="Ekran görüntüsü 2026-02-07 231946" src="https://github.com/user-attachments/assets/19e1ff40-0753-4ab2-a4f2-df2e911e95c4" />
+<img width="1919" height="1016" alt="Ekran görüntüsü 2026-02-07 230635" src="https://github.com/user-attachments/assets/b98cd4c0-e4ea-4344-8aa9-37a311e5906b" />
+<img width="1919" height="880" alt="Ekran görüntüsü 2026-02-07 230644" src="https://github.com/user-attachments/assets/b9974269-f924-40c9-91fc-e6addb3afd16" />
+<img width="1919" height="897" alt="Ekran görüntüsü 2026-02-07 230702" src="https://github.com/user-attachments/assets/1c2549dd-e473-4521-a47e-2c0c0455b465" />
+<img width="1919" height="1017" alt="Ekran görüntüsü 2026-02-07 231038" src="https://github.com/user-attachments/assets/99f17dae-5975-4340-9389-315045ac2d1e" />
+
