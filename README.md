@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x400?text=AI+Home+Design+Platform" width="100%" alt="Banner" />
+
 
 # 🏛️ AI Home Design Platform
 ### *Enterprise-Grade Interior Visualization & Spatial Intelligence*
@@ -77,7 +77,7 @@ npm run dev
 
 <div align="center">
   <p>Designed & Engineered with Perfection</p>
-  <a href="https://linkedin.com/in/username">
+  <a href="https://linkedin.com/in/omerabali">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
